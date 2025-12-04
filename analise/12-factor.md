@@ -1,4 +1,4 @@
-| [↩️ Back](/) |
+| [↩️ Back](./) |
 | --- |
 
 # TECH CHALLENGE - 12-Factor App
@@ -70,6 +70,8 @@ O ambiente do Docker permite interagir com a aplicação para atividades adminis
 ✅ Aderente à metodologia 12-Factor
 
 ⚠️ Requer melhorias ou ajustes para atender à metodologia 12-Factor
+
+<BR>
 
 | [⬆️ Top](#tech-challenge---análise) |
 | --- |
