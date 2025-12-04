@@ -4,7 +4,7 @@
 
 <BR>
 
-- [**Análise**](/analise/)
+- [**Análise geral**](/analise/)
 - [**12-Factor**](/analise/12-factor.md)
 
 <BR>
@@ -13,6 +13,8 @@
 
 <details>
     <summary><b>Proposta inicial do desafio da fase 1. <i>Clique para expandir</i></b></summary>
+
+> _Repositório original: [dougls/toggle-master-monolith](https://github.com/dougls/toggle-master-monolith)_
 
 # Tech Challenge - Fase 1: Plataforma "ToggleMaster"
 
