@@ -1,4 +1,4 @@
-| [↩️ Back](./) |
+| [↩️ Back](/) |
 | --- |
 
 # TECH CHALLENGE - Análise

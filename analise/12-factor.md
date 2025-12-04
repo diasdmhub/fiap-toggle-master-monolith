@@ -1,4 +1,4 @@
-| [↩️ Back](./) |
+| [↩️ Back](/) |
 | --- |
 
 # TECH CHALLENGE - 12-Factor App
