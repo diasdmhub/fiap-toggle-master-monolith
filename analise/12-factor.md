@@ -1,3 +1,6 @@
+| [↩️ Back](./) |
+| --- |
+
 # TECH CHALLENGE - 12-Factor App
 
 **Em relação à [metodologia de 12 fatores][12factor] para microserviços, a aplicação ToogleMaster possui as características abaixo.**
@@ -65,9 +68,8 @@ O ambiente do Docker permite interagir com a aplicação para atividades adminis
 #### Legenda:
 
 ✅ Aderente à metodologia 12-Factor
-⚠️ Requer melhorias ou ajustes para atender à metodologia 12-Factor
 
-<BR>
+⚠️ Requer melhorias ou ajustes para atender à metodologia 12-Factor
 
 | [⬆️ Top](#tech-challenge---análise) |
 | --- |
