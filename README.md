@@ -1,5 +1,17 @@
 # Tech Challenge - Fase 1: Plataforma "ToggleMaster"
 
+
+- [**Análise**](./analise/)
+
+<BR>
+
+---
+
+<details>
+    <summary><b>Proposta inicial do desafio da fase 1. <i>Clique para expandir</i></b></summary>
+
+# Tech Challenge - Fase 1: Plataforma "ToggleMaster"
+
 Bem-vindo à primeira fase do Tech Challenge do curso de DevOps! Neste projeto, construiremos uma plataforma de *Feature Flag as a Service* chamada **ToggleMaster**.
 
 ## 📖 Cenário
@@ -300,3 +312,10 @@ Você deve entregar os seguintes itens:
 - **📝 DOCUMENTAÇÃO:** Uma boa documentação é parte crucial da cultura DevOps. Descreva suas escolhas e justifique-as.
 
 Boa sorte!
+
+</details>
+
+---
+
+| [⬆️ Top](#tech-challenge---fase-1:-plataforma-"togglemaster") |
+| --- |
