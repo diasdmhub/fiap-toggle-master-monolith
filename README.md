@@ -1,7 +1,11 @@
 # Tech Challenge - Fase 1: Plataforma "ToggleMaster"
 
+> **Esta é a analise geral do desafio da fase 1 do curso DevOps da FIAP.**
 
-- [**Análise**](./analise/)
+<BR>
+
+- [**Análise**](/analise/)
+- [**12-Factor**](/analise/12-factor.md)
 
 <BR>
 
@@ -317,5 +321,5 @@ Boa sorte!
 
 ---
 
-| [⬆️ Top](#tech-challenge---fase-1:-plataforma-"togglemaster") |
+| [⬆️ Top](#tech-challenge---fase-1-plataforma-togglemaster) |
 | --- |

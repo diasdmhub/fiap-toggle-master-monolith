@@ -40,12 +40,12 @@ Apesar das vantagens, se o MVP for bem-sucedido, a escala pode se tornar um prob
 - **Alta Dependência entre Módulos:** A interdependência entre os módulos é alta, pois todos são inicializados conjuntamente. Isso pode dificultar a modificação ou a substituição de componentes individuais sem afetar o restante da aplicação.
 - **Desenvolvimento Centralizado e Lento:** O desenvolvimento de uma aplicação monolítica é frequentemente centralizado e pode ser mais lento, já que todos os módulos devem ser desenvolvidos e testados de forma integrada. Isso impede uma abordagem mais ágil, onde diferentes partes da aplicação poderiam ser trabalhadas independentemente.
 
-[app-geral]: https://github.com/dougls/toggle-master-monolith
-[app-principal]: github.com/dougls/toggle-master-monolith/blob/main/app.py
-[docker-file]: github.com/dougls/toggle-master-monolith/blob/main/app.py
-[docker-compose]: github.com/dougls/toggle-master-monolith/blob/main/app.py
-
 <BR>
 
 | [⬆️ Top](#tech-challenge---análise) |
 | --- |
+
+[app-geral]: /
+[app-principal]: /app.py
+[docker-file]: /Dockerfile
+[docker-compose]: /docker-compose.yaml
