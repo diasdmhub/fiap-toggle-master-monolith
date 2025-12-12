@@ -4,8 +4,11 @@
 
 <BR>
 
+### Fase 1
+
 - [**Análise geral**](/analise/)
 - [**12-Factor**](/analise/12-factor.md)
+- [**Diagrama**](/diagrama/)
 
 <BR>
 
