@@ -327,5 +327,5 @@ Boa sorte!
 
 ---
 
-| [⬆️ Top](#tech-challenge---fase-1-plataforma-togglemaster) |
+| [⬆️ Top](#tech-challenge---plataforma-togglemaster) |
 | --- |
