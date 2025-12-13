@@ -28,9 +28,13 @@ Para o ambiente da ToggleMaster, foram estimados valores mensais para novos serv
 
 <BR>
 
-### 💲 Estimativa com histórico de uso
+### 💲 Estimativa baseada em histórico
 
 ![AWS Cost History](./cost_history.png)
+
+<BR>
+
+**Essas estimativas evidenciam que o custo real pode ser inferior ao estimado, se houver uma boa gestão do ambiente.**
 
 <BR>
 
