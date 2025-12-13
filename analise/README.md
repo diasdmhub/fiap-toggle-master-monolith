@@ -3,7 +3,7 @@
 
 # TECH CHALLENGE - Análise
 
-## Componentes
+## 🧩 Componentes
 
 A aplicação é executada em um ambiente Docker, utilizando o Docker Compose para definir e inicializar os seus componentes. Esse arranjo permite que os componentes funcionem de forma integrada, com comunicação facilitada e coordenação interna simplificada pelo Docker.
 
@@ -16,7 +16,7 @@ Os principais componentes são:
 
 <BR>
 
-## Análise
+## 📈 Análise
 
 > **Por que o código é considerado um "monolito"?**
 
@@ -24,7 +24,7 @@ O código é classificado como monolito porque a aplicação é uma unidade coes
 
 <BR>
 
-### Vantagens como MVP
+### 👍 Vantagens como MVP
 
 Com a aplicação organizada de forma monolítica, com todos os componentes integrados (*Python* + *PostgreSQL* + *Docker*), o desenvolvimento e a entrega de uma versão funcional são mais rápidos, o que permite validar a ideia no mercado rapidamente. Seguem algumas possíveis vantagens, especialmente em termos de simplicidade de desenvolvimento e operação:
 
@@ -35,7 +35,7 @@ Com a aplicação organizada de forma monolítica, com todos os componentes inte
 
 <BR>
 
-### Desvantagens após o MVP
+### 👎 Desvantagens após o MVP
 
 Apesar das vantagens, se o MVP for bem-sucedido, a escala pode se tornar um problema. A arquitetura monolítica apresenta algumas desvantagens à medida que a aplicação cresce:
 
