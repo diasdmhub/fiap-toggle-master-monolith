@@ -1,7 +1,7 @@
 | [↩️ Back](/) |
 | --- |
 
-# TECH CHALLENGE - Custos
+# TECH CHALLENGE Fase 1 - Custos
 
 ## 🧩 Componentes
 
@@ -20,9 +20,13 @@ A AWS fornece um ambiente de gerenciamento de custos e faturamento que inclui a 
 
 Para o ambiente da ToggleMaster, foram estimados valores mensais para novos serviços. Adicionalmente, a _Pricing Calculator_ também considerou o histórico de uso do ambiente e gerou uma segunda estimativa, conforme as planilhas a seguir.
 
+<BR>
+
 ### 💲 Estimativa para novos serviços
 
 ![AWS Cost Estimate](./cost_estimate.png)
+
+<BR>
 
 ### 💲 Estimativa com histórico de uso
 
