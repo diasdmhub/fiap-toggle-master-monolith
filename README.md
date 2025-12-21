@@ -10,6 +10,7 @@
 - [**12-Factor**](/analise/12-factor.md)
 - [**Diagrama**](/diagrama/)
 - [**Custos**](/analise/custo.md)
+- [**Implementação**](/setup/)
 
 <BR>
 
