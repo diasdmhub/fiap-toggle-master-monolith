@@ -3,7 +3,7 @@
 
 # TECH CHALLENGE Fase 1 - Implementação
 
-## Resumo descritivo
+## Resumo
 
 Para implementar a aplicação ToggleMaster em um ambiente "MVP", o "monolito" proposto no [repositório original](/) é adequado e rápido. A aplicação é executada em um ambiente Docker com um arranjo que permite que os componentes funcionem de forma integrada, com comunicação facilitada e coordenação interna simplificada.
 
@@ -25,11 +25,11 @@ Para implementar a aplicação ToggleMaster em um ambiente "MVP", o "monolito" p
 ### Preparação prévia
 
 1. Crie e acesse o diretório de trabalho da aplicação (_default: `/opt/togglemaster`_)
-    > `mkdir /opt/togglemaster`
-    > `cd /opt/togglemaster`
+    > - `mkdir /opt/togglemaster`
+    > - `cd /opt/togglemaster`
 
 2. Clone o repositório da aplicação dentro do diretório de trabalho
-    > `git clone https://github.com/diasdmhub/fiap-toggle-master-monolith.git`
+    > - `git clone https://github.com/diasdmhub/fiap-toggle-master-monolith.git`
 
 3. Copie e execute o script como root
 
