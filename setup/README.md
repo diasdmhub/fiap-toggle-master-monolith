@@ -7,7 +7,7 @@
 
 Para implementar a aplicação ToggleMaster em um ambiente "MVP", o "monolito" proposto no [repositório original](/) é adequado e rápido. A aplicação é executada em um ambiente Docker com um arranjo que permite que os componentes funcionem de forma integrada, com comunicação facilitada e coordenação interna simplificada.
 
-À medida que a aplicação cresce, descentralizar os componentes se torna vantajoso. Nesse contexto, a aplicação pode ser executada em um ambiente AWS, utilizando instâncias EC2. Portanto, foi elaborado um script para facilitar a inicialização da aplicação nesse ambiente. Ele valida os requisitos básicos da instância e prepara o ambiente Python para a execução da aplicação. Também é criado um serviço do SystemD para facilitar o gerenciamento da aplicação. Com o ambiente preparado, a aplicação é inicializada e fica pronta para uso.
+À medida que a aplicação cresce, descentralizar os componentes se torna vantajoso. Nesse contexto, a [aplicação principal](/analise/) pode ser executada em um ambiente AWS, utilizando instâncias EC2. Portanto, foi elaborado um script para facilitar a inicialização da aplicação nesse ambiente. Ele valida os requisitos básicos da instância e prepara o ambiente Python para a execução da aplicação. Também é criado um serviço no SystemD para facilitar o gerenciamento da aplicação. Com o ambiente preparado, a aplicação é inicializada e fica pronta para uso.
 
 <BR>
 
