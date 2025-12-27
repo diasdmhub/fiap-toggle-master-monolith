@@ -34,7 +34,7 @@ Para o ambiente da ToggleMaster, foram estimados valores mensais para novos serv
 
 <BR>
 
-**Essas estimativas evidenciam que o custo real pode ser inferior ao estimado, se houver uma boa gestão do ambiente.**
+**Essas estimativas evidenciam que o custo real pode ser inferior ao estimado, se houver uma boa gestão do ambiente e limitação de alguns recursos.**
 
 <BR>
 
